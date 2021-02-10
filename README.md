@@ -1,5 +1,9 @@
 # Bitcoin Wallet 
+
+<img src="https://github.com/DesignisOrion/Bitcoin-Wallet-/blob/main/img/Et1YcFoWYAE5qQI.png">
+
 In this project I wanted to create a bitcoin wallet that produces address, private key and public key using python. I did some research and came across the module bitcoin which allows creation of such.
+
 
 # Tools Used
 - Python3 +
